@@ -1,60 +1,51 @@
-# Hi, I'm Kaka Davi Dharmawan! 👋
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Semester%206%20CS%20Student-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Scholarship-Bright%20Scholar-orange?style=flat-square">
-  <img src="https://img.shields.io/badge/Focus-Data%20Science-green?style=flat-square">
-</p>
-
-I'm a **Computer Science student** at UIN Sumatera Utara with a deep passion for turning data into insights and building robust systems.
-
-### 🎯 Core Interests & Expertise
-| **Field** | **Tech Stack / Focus** |
-| :--- | :--- |
-| **Data Science & AI** | Python, Machine Learning, k-NN, Sentiment Analysis |
-| **System Analysis** | Modelling Information System, Analyst System, Project Management |
-| **Development** | Java (Spring Boot), Flutter, Dart, PHP |
+# ⚡ Kaka Davi Dharmawan
+> **Bridging the gap between Academic Research and Scalable Technology.**
 
 ---
 
-### 🎓 Academic & Research Milestones
-> *Menjembatani teori akademik dengan implementasi praktis.*
-
-* **4x Published Author:** Penulis pertama di jurnal terindeks **Garuda & Sinta (4, 5, 6)**.
-* **National Winner:** Juara Terfavorit 1 (Peringkat 4) Kompetisi Web Development Nasional.
-* **Problem Solver:** Berfokus pada algoritma dan *analytical thinking* untuk solusi digital.
+### 👨‍💻 About Me
+Mahasiswa semester 6 **Teknik Informatika di UIN Sumatera Utara**. Saya seorang **Data Science Enthusiast** yang tidak hanya fokus pada *coding*, tapi juga mendalami sisi analitis dan metodologi riset. Saat ini sedang mendalami ekosistem data melalui program **DBS Foundation x Dicoding**.
 
 ---
 
-### 📂 Featured Projects
-* **Sentiment Analysis k-NN** – Riset kepuasan publik pada Inspektorat Provinsi Sumatera Utara.
-* **Monte Carlo Simulation** – Simulasi penyelesaian *Gambler's Ruin Problem*.
-* **Management Information System** – Proyek pengembangan sistem berbasis Java & PHP.
+### 🔬 Academic Impact
+*Berfokus pada publikasi ilmiah dan solusi berbasis data.*
+
+- 📄 **First Author of 4 Research Journals** (Indeks Garuda, Sinta 4, 5, & 6).
+- 🧬 **Sentiment Analysis Specialist** – Implementasi k-NN untuk optimasi layanan publik.
+- 🎲 **Simulation Researcher** – Eksplorasi Monte Carlo pada problem kompleks.
+- 🏆 **National Web Dev Runner-up** – Juara Terfavorit 1 (Peringkat 4) Nasional.
 
 ---
 
-### 🚀 Currently Learning
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+### 💻 The Toolkit
+**Data & Intelligence**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![k-NN](https://img.shields.io/badge/-k--NN-green?style=flat) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Research](https://img.shields.io/badge/-Academic%20Research-blue?style=flat)
+
+**Software Development**
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
-### 📊 GitHub Performance
-<p align="left">
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=dapiupiu&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapiupiu&layout=compact&theme=radical&langs_count=6" />
+### 🚀 Active Endeavors
+- 🛠️ **Building:** Aplikasi manajemen data buku berbasis **Spring Boot**.
+- 📱 **Exploring:** *Mobile development* lintas platform dengan **Flutter**.
+- 🎗️ **Contributing:** Aktif dalam komunitas **Bright Scholarship**.
+
+---
+
+### 📊 Coding Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dapiupiu&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapiupiu&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="170" />
 </p>
 
 ---
 
-### 💬 Quotes & Philosophy
-> "Belajar pelan-pelan, yang penting nggak berhenti. Programmer andal dulunya dari Hello World" — **Dapi**
->
-> "Konsisten! Selesaikan apa yang sudah dimulai."
+### 🗨️ Philosophy
+> *"Belajar pelan-pelan, yang penting nggak berhenti. Konsisten dan selesaikan apa yang sudah dimulai."* — **Dapi**
 
 ---
 
-### 📫 Connect with me:
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kakadavidarmawan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaka-davi-dharmawan)
+### 📫 Let's Collaborate
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaka-davi-dharmawan) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kakadavidarmawan@gmail.com)
