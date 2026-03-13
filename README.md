@@ -6,40 +6,44 @@
   <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20AI-green?style=flat-square">
 </p>
 
-Saya adalah mahasiswa Teknik Informatika di **UIN Sumatera Utara**. Fokus utama saya adalah riset data dan pengembangan sistem informasi yang solutif. Saat ini, saya aktif mendalami ekosistem *Machine Learning* dan *Backend Development*.
+Saya adalah mahasiswa Computer Science **UIN Sumatera Utara Medan**. Fokus utama saya adalah analisis data dan pengembangan sistem informasi yang solutif. Saat ini, saya aktif mendalami ekosistem *Machine Learning* dan *Data Scientist*.
 
 ---
 
 ### 🎯 Expertise & Interests
 | **Field** | **Tech Stack / Knowledge** |
 | :--- | :--- |
-| **Data Science & AI** | Python, Machine Learning (k-NN), Sentiment Analysis, JST |
-| **Development** | Java (Spring Boot), Flutter, Dart, MySQL, PHP |
+| **Data Science & AI** | Python, Machine Learning, Data Scientist |
+| **Development** | Java (Spring Boot), Flutter, MySQL, PHP |
 | **Systems** | Analyst System, Modelling Information System, Project Management |
 
 ---
 
-### 🎓 Academic & Research Milestones
-*Berfokus pada pengembangan ilmu melalui riset terstandarisasi.*
+### 💻 Academic & Current Projects
+*Koleksi proyek mata kuliah praktikum dan lomba.*
 
-- **Published Author:** Penulis pertama di **4 Artikel Jurnal Akademik** (Indeks Garuda, Sinta 4, 5, & 6).
-- **Sentiment Analysis:** Riset kepuasan publik di Inspektorat Provsu menggunakan algoritma **k-NN**.
-- **Monte Carlo Simulation:** Implementasi simulasi pada *Gambler's Ruin Problem*.
-- **National Competition:** Juara Terfavorit 1 (Peringkat 4) Kompetisi Web Development Nasional.
+- **Book Store Management (Spring Boot)** 📚
+  - Pengembangan sistem manajemen data buku dan kategori menggunakan **Java Spring Boot** untuk praktikum.
+- **Sentiment Analysis of Public Opinion** 📊
+  - Implementasi algoritma **Naive Bayes** untuk menganalisis sentimen publik pada infrastruktur daerah.
+- **National Web Project** 🏆
+  - Repositori proyek yang meraih Juara Terfavorit 1 (Peringkat 4) dalam kompetisi web development nasional.
 
 ---
 
 ### 🚀 Currently Learning
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ### 📊 GitHub Performance
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dapiupiu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapiupiu&layout=compact&theme=radical&langs_count=6&border_radius=10" />
+<p align="left">
+<a href="https://github.com/dapiupiu">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dapiupiu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dapiupiu&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 ---
