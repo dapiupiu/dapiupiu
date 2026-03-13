@@ -1,8 +1,8 @@
 # Hi, I'm Kaka Davi Dharmawan! 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Semester%206%20Informatics-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Scholarship-Bright%20Scholar-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/Status-Semester%206%20Computer%20Science-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Scholarship-Bright%20Scholarship-orange?style=flat-square">
   <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20AI-green?style=flat-square">
 </p>
 
