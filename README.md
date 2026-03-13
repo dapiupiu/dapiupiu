@@ -2,11 +2,10 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Major-Computer%20Science-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Scholarship-Bright%20Scholarship-orange?style=flat-square">
   <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20AI-green?style=flat-square">
 </p>
 
-Saya adalah mahasiswa Computer Science **UIN Sumatera Utara Medan**. Fokus utama saya adalah analisis data dan pengembangan sistem informasi yang solutif. Saat ini, saya aktif mendalami ekosistem *Machine Learning* dan *Data Scientist*.
+Saya adalah mahasiswa Computer Science **UIN Sumatera Utara Medan**. Fokus utama belajar saya adalah analisis data dan pengembangan sistem informasi yang solutif. Saat ini, saya aktif mendalami ekosistem *Machine Learning* dan *Data Scientist*.
 
 ---
 
