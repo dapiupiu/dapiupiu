@@ -13,7 +13,7 @@ Saya adalah mahasiswa Computer Science **UIN Sumatera Utara Medan**. Fokus utama
 | **Field** | **Tech Stack / Knowledge** |
 | :--- | :--- |
 | **Data Science & AI** | Python, Machine Learning, Data Scientist |
-| **Development** | Java (Spring Boot), Flutter, MySQL, PHP |
+| **Development** | Java (Spring Boot), Flutter, Website |
 | **Systems** | Analyst System, Modelling Information System, Project Management |
 
 ---
@@ -24,7 +24,7 @@ Saya adalah mahasiswa Computer Science **UIN Sumatera Utara Medan**. Fokus utama
 - **Book Store Management (Spring Boot)** 📚
   - Pengembangan sistem manajemen data buku dan kategori menggunakan **Java Spring Boot** untuk praktikum.
 - **Sentiment Analysis of Public Opinion** 📊
-  - Implementasi algoritma **Naive Bayes** untuk menganalisis sentimen publik pada infrastruktur daerah.
+  - Implementasi algoritma **Naive Bayes** untuk menganalisis sentimen masyarakat pada infrastruktur publik.
 - **National Web Project** 🏆
   - Repositori proyek yang meraih Juara Terfavorit 1 (Peringkat 4) dalam kompetisi web development nasional.
 
