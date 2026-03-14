@@ -56,4 +56,4 @@ Saya adalah mahasiswa Computer Science **UIN Sumatera Utara Medan**. Fokus utama
 
 ### 📫 Reach Me Out!
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kakadavidarmawan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaka-davi-dharmawan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/kakadavidharmawan)
