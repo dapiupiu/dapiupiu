@@ -45,7 +45,9 @@ Saya adalah mahasiswa Computer Science **UIN Sumatera Utara Medan** yang berdedi
 
 > 💡 "Belajar pelan-pelan, yang penting nggak berhenti. Programmer andal dulunya dari Hello World."
 > — **Dapi**
+
 > 🎯 "Konsisten! Selesaikan apa yang sudah dimulai."
+
 > 🚀 "Tidak ada jalan mudah untuk mencapai sesuatu yang sulit."
 
 ---
