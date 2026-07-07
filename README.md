@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Mahasiswa Computer Science <b>UIN Sumatera Utara Medan</b>, saat ini memimpin pengembangan <b>EduPredict AI</b> —
+  Mahasiswa Computer Science <b>UIN Sumatera Utara Medan</b>, memiliki pengalaman memimpin pengembangan <b>EduPredict AI</b> —
   sebuah Early Warning System berbasis AI untuk mendeteksi risiko akademik siswa. Berpengalaman memimpin tim lintas
   disiplin (AI Engineer, Data Scientist, Full-Stack Developer) dan fokus pada predictive modeling serta sentiment analysis.
 </p>
@@ -77,9 +77,6 @@ Dashboard interaktif Streamlit untuk eksplorasi pola penyewaan sepeda: pengaruh 
 **[SI-Buku: Sistem Informasi Toko Buku](https://github.com/dapiupiu/book-store-project)**
 Aplikasi manajemen inventaris toko buku berbasis Java Spring Boot, menerapkan keempat pilar OOP secara penuh (Encapsulation, Inheritance, Abstraction, Polymorphism).
 
-**QalBoost** *(private repository)*
-Aplikasi mobile Flutter untuk kesehatan mental mahasiswa berbasis mood tracking mandiri. Peran: Front-end Developer — reactive state management, integrasi API, 13+ tampilan UI.
-
 <!--
   Format nambah project baru:
   **[Nama Project](link-repo)**
@@ -92,8 +89,8 @@ Aplikasi mobile Flutter untuk kesehatan mental mahasiswa berbasis mood tracking 
 
 | Institusi | Program | Periode |
 |---|---|---|
-| Universitas Islam Negeri Sumatera Utara | S1 Computer Science | 2023 – 2027 |
-| SMKS Al-Razi Sinar Harapan Medan | Software Engineering | 2020 – 2023 |
+| Universitas Islam Negeri Sumatera Utara | S1 Ilmu Komputer | 2023 – 2027 |
+| SMKS Al-Razi Sinar Harapan Medan | Rekayasa Perangkat Lunak | 2020 – 2023 |
 
 ---
 
