@@ -141,19 +141,16 @@ Aplikasi manajemen inventaris toko buku berbasis Java Spring Boot, menerapkan ke
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=dapiupiu&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dapiupiu&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
 </p>
 
 <!--
   Kalau salah satu gambar di atas gagal muncul lagi (broken icon), itu bukan salahmu — ini layanan gratis pihak
   ketiga yang kadang kena rate-limit atau server-nya down sementara. Solusinya:
   1. Tunggu beberapa menit lalu refresh halaman GitHub-mu.
-  2. Kalau masih gagal, ganti domain di URL dengan mirror lain. Untuk trophy, opsi lain: 
-     github-profile-trophy-liard-delta.vercel.app atau github-profile-trophy-winning.vercel.app
-  3. Ganti "tokyonight" di keempat link kalau mau tema lain (dracula, radical, onedark, gruvbox) — pastikan nama
-     tema sama persis di semua link supaya tampilannya konsisten.
+  2. Ganti "tokyonight"/"tokyo-night" di link-link di atas kalau mau tema lain (dracula, radical, onedark, gruvbox) —
+     pastikan nama tema sama persis di semua link supaya tampilannya konsisten.
 -->
-
 
 ---
 
