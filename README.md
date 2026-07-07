@@ -121,9 +121,9 @@ Aplikasi manajemen inventaris toko buku berbasis Java Spring Boot, menerapkan ke
 <summary><b>📄 Publications</b></summary>
 <br>
 
-- Implementasi Metode Waterfall dalam Pengembangan Sistem Informasi Rekrutmen Asisten Laboratorium Ilmu Komputer Berbasis Web
-- Sentiment Analysis of Public Opinion on Road Damage in North Sumatra Using the Naive Bayes Method Based on Weak Supervision (Lexicon-Based)
-- Penerapan Arsitektur Convolutional Neural Network untuk Klasifikasi Biner pada Objek Daun Mangga dan Jambu
+- Implementasi Metode Waterfall dalam Pengembangan Sistem Informasi Rekrutmen Asisten Laboratorium Ilmu Komputer Berbasis Web (Sinta 5)
+- Sentiment Analysis of Public Opinion on Road Damage in North Sumatra Using the Naive Bayes Method Based on Weak Supervision (Lexicon-Based)(Indeks Garuda)
+- Penerapan Arsitektur Convolutional Neural Network untuk Klasifikasi Biner pada Objek Daun Mangga dan Jambu (Sinta 6)
 
 </details>
 
