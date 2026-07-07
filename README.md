@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kaka Davi Dharmawan 👋</h1>
-<h3 align="center">Project Lead & Data Scientist — Turning Educational Data into Proactive Action</h3>
+<h3 align="center">Project Lead & Data Scientist — Turning Raw Data into Proactive Action</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Project%20Lead-EduPredict%20AI-6D28D9?style=for-the-badge" />
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Mahasiswa Computer Science <b>UIN Sumatera Utara Medan</b>, memiliki pengalaman memimpin pengembangan <b>EduPredict AI</b> —
+  Mahasiswa Ilmu Komputer <b>UIN Sumatera Utara Medan</b>, memiliki pengalaman memimpin pengembangan <b>EduPredict AI</b> —
   sebuah Early Warning System berbasis AI untuk mendeteksi risiko akademik siswa. Berpengalaman memimpin tim lintas
   disiplin (AI Engineer, Data Scientist, Full-Stack Developer) dan fokus pada predictive modeling serta sentiment analysis.
 </p>
@@ -18,7 +18,7 @@
 ### 🧭 Currently
 
 - 🔭 Memimpin **EduPredict AI** sebagai Capstone Project — early warning system risiko akademik siswa (Coding Camp powered by DBS Foundation)
-- 🌱 Mengikuti **Data Scientist Cohort**, memperdalam data pipeline, EDA, feature engineering, dan dashboard development
+- 🌱 Terpilih menjadi **Data Scientist Cohort**, memperdalam data pipeline, EDA, feature engineering, dan dashboard development (Coding Camp powered by DBS Foundation)
 - 🎓 Penerima **Bright Scholarship Batch 09**, aktif dalam program kepemimpinan dan proyek sosial kemasyarakatan
 - 💬 Terbuka untuk kolaborasi seputar AI untuk pendidikan inklusif dan adaptif
 
@@ -38,11 +38,10 @@
 
 **Web Development**
 <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 **Tools & Platforms**
@@ -132,10 +131,23 @@ Aplikasi manajemen inventaris toko buku berbasis Java Spring Boot, menerapkan ke
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dapiupiu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="165em" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dapiupiu&layout=compact&langs_count=8&theme=algolia" height="165em" />
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dapiupiu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="170em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dapiupiu&theme=tokyonight&hide_border=true" height="170em" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dapiupiu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="165em" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dapiupiu&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+</p>
+
+<!--
+  Ganti "tokyonight" di keempat link di atas kalau mau tema lain, misalnya: dracula, radical, onedark, gruvbox.
+  Nama tema harus sama persis di semua link supaya tampilannya konsisten.
+-->
 
 ---
 
