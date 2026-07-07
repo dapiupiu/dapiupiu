@@ -133,7 +133,7 @@ Aplikasi manajemen inventaris toko buku berbasis Java Spring Boot, menerapkan ke
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dapiupiu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="170em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dapiupiu&theme=tokyonight&hide_border=true" height="170em" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=dapiupiu&theme=tokyonight&hide_border=true" height="170em" />
 </p>
 
 <p align="center">
@@ -141,13 +141,19 @@ Aplikasi manajemen inventaris toko buku berbasis Java Spring Boot, menerapkan ke
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dapiupiu&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=dapiupiu&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
 </p>
 
 <!--
-  Ganti "tokyonight" di keempat link di atas kalau mau tema lain, misalnya: dracula, radical, onedark, gruvbox.
-  Nama tema harus sama persis di semua link supaya tampilannya konsisten.
+  Kalau salah satu gambar di atas gagal muncul lagi (broken icon), itu bukan salahmu — ini layanan gratis pihak
+  ketiga yang kadang kena rate-limit atau server-nya down sementara. Solusinya:
+  1. Tunggu beberapa menit lalu refresh halaman GitHub-mu.
+  2. Kalau masih gagal, ganti domain di URL dengan mirror lain. Untuk trophy, opsi lain: 
+     github-profile-trophy-liard-delta.vercel.app atau github-profile-trophy-winning.vercel.app
+  3. Ganti "tokyonight" di keempat link kalau mau tema lain (dracula, radical, onedark, gruvbox) — pastikan nama
+     tema sama persis di semua link supaya tampilannya konsisten.
 -->
+
 
 ---
 
