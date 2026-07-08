@@ -2,9 +2,10 @@
 <h3 align="center">Project Lead & Data Scientist — Turning Raw Data into Proactive Action</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project%20Lead-EduPredict%20AI-6D28D9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Scientist%20Cohort-Coding%20Camp%20x%20DBS%20Foundation-2E7D32?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bright%20Scholarship-Batch%2009-F59E0B?style=for-the-badge" />
+<img src="https://raw.githubusercontent.com/dapiupiu/edupredict-project/main/frontend/src/assets/logo-edupredict.png" width="22" height="22" style="vertical-align:middle; border-radius:4px;" />
+  <img src="https://img.shields.io/badge/Project%20Lead-EduPredict%20AI-38BDF8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Scientist%20Cohort-Coding%20Camp%20x%20DBS%20Foundation-800000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bright%20Scholarship-Batch%2009-F97316?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -51,7 +52,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 
