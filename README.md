@@ -2,7 +2,6 @@
 <h3 align="center">Project Lead & Data Scientist — Turning Raw Data into Proactive Action</h3>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/dapiupiu/edupredict-project/main/frontend/src/assets/logo-edupredict.png" width="22" height="22" style="vertical-align:middle; border-radius:4px;" />
   <img src="https://img.shields.io/badge/Project%20Lead-EduPredict%20AI-38BDF8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Scientist%20Cohort-Coding%20Camp%20x%20DBS%20Foundation-800000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Bright%20Scholarship-Batch%2009-F97316?style=for-the-badge" />
