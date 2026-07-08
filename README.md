@@ -66,6 +66,7 @@
 
 **[EduPredict AI](https://github.com/dapiupiu/edupredict-project)** · **[Dashboard Streamlit](https://github.com/dapiupiu/edupredict-streamlit-dashboard)**
 Early warning system berbasis AI untuk mendeteksi risiko akademik siswa (Low/Medium/High), lengkap dengan rekomendasi intervensi otomatis dari Generative AI.
+
 Peran: Capstone Project Lead — memimpin tim 6 orang, arsitektur Deep Learning (TensorFlow), dan MVP 5 minggu.
 
 **[Sentiment Analysis: Infrastruktur Jalan Sumut](https://github.com/dapiupiu/sentiment-analysis-project)**
