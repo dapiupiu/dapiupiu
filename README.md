@@ -173,4 +173,5 @@ Aplikasi manajemen inventaris toko buku berbasis Java Spring Boot, menerapkan ke
   </a>
 </p>
 
-<p align="center"><i>"Konsisten. Selesaikan apa yang sudah dimulai."</i></p>
+<p align="center"><i>"Konsisten. Orang hebat juga dulunya seorang pemula"</i></p>
+<p align="center"><i>"Jangan berhenti dari apa yang telah dimulai."</i></p>
