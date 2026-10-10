@@ -83,11 +83,12 @@ Also: [SI-Buku](https://github.com/dapiupiu/book-store-project), a bookstore inv
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=dapiupiu&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
+<!--
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dapiupiu&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
 </p>
 
-<!--
+
   Stat images come from free third-party services and sometimes fail temporarily. Wait a few minutes and refresh.
   Keep the theme name identical across all links (tokyonight / tokyo-night) so the look stays consistent.
 -->
